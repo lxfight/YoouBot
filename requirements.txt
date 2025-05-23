@@ -1,0 +1,5 @@
+django
+djangorestframework
+channels
+daphne
+psycopg2-binary
